@@ -3,8 +3,8 @@
 Description
 # Bahmni metadata which includes the following:
 
-*Person Attributes.
-*Encounter Types.
+Person Attributes.
+Encounter Types.
 Forms.
 Locations.
 User Roles.
