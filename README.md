@@ -1,10 +1,10 @@
-# mobile_telepsychiatry_metadata
+## mobile_telepsychiatry_metadata
 
 Description
-Bahmni metadata which includes the following:
+# Bahmni metadata which includes the following:
 
-Person Attributes.
-Encounter Types.
+*Person Attributes.
+*Encounter Types.
 Forms.
 Locations.
 User Roles.
