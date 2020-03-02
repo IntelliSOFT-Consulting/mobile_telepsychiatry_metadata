@@ -1,0 +1,5 @@
+Uuid,Answers,Members,Fully specified name:en,Short name:en,Data class,Data type,_version:1,_order:6
+c3949eb6-3f10-11e4-adec-0800271c1b75,"",Chief Complaint; Non-Coded Chief Complaint;Chief Complaint Duration,Chief Complaint Data,"",Concept Details,	N/A,"",""
+c2a43174-c9db-4e54-8516-17372c83537f,"","",Smoking History,"",Misc,Boolean,"",""
+c3ae29e3-9836-4df9-bcef-8d01b776854d,"",Image,Consultation Images,"",Misc,N/A,"",""
+de9fbf5e-6ca4-46d7-a918-4cfde6fc9341,"",Chief Complaint Data ; Chief Complaint Notes ; History Notes ;Examination Notes;Consultation Images;	Patient Video,Additional history and physcial exam,"",Misc,N/A,"",""
