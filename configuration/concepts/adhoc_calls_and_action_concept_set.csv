@@ -1,0 +1,4 @@
+Uuid,Answers,Members,Fully specified name:en,Short name:en,Data class,Data type,_version:1,_order:4
+635d1f93-1024-4ecb-808f-30f61b7d7319,Follow-up Call To Patient ; Follow-up Call To Carer; Welfare Check Call ; Pharmacy Call ; Laboratory Call ; Healthcare Professional Call,"",Type of Call,"",Question,Coded,"",""
+93f5d941-d8a6-4b23-b448-29521eea1a35,"No immediate action needed ; Inform Patients Doctor ; Arrange OPD review ; Inform Key Nurse ; Call Pharmacist; Call Laboratory ; Other Action Following Call ","",Action Following Call,"",Question,Coded,"",""
+b6ae8d72-8eeb-4526-8a1a-532ee27580ce,"",Date/Time of Call; Type of Call ; Other Ad-hoc Call (please specify);Details of Call; Action Following Call ; Other Action(Specify),Ad-hoc Calls And Actions,"",Misc,N/A,"",""

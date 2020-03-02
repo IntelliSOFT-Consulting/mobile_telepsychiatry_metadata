@@ -1,0 +1,22 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:1,_order:3,Data class,Data type,Answers
+5d49e926-7885-43d6-a6f3-a4778880d5f1,,Date/Time of Call,,,,,,Question,Datetime,
+378934eb-9c40-438e-932b-a280eedd164a,"",Follow-up Call To Patient,"","","","","",Misc,N/A,""
+03728fe4-0be6-4f59-b5ea-cb78843f9ff3,"",Follow-up Call To Carer,"","","","","",Misc,N/A,""
+35b7d316-f0fb-4ed5-a886-6839269a45ad,"",Welfare Check Call,"","","","","",Misc,N/A,""
+f45f4296-636f-4b1e-a0fb-d99f6a460706,"",Pharmacy Call,"","","","","",Misc,N/A,""
+e5b2a5f8-6eba-4988-bd73-4a39e6476ba9,"",Laboratory Call,"","","","","",Misc,N/A,""
+ac499814-5cc9-4e01-a283-83e48f0690b8,"",Healthcare Professional Call,"","","","","",Misc,N/A,""
+fb013e44-69f6-436b-87f4-4ef06988f7b6,"",Other Ad-Hoc Call(Specify),Other Ad-Hoc Call,"","","","",Misc,N/A,""
+635d1f93-1024-4ecb-808f-30f61b7d7319,,Type of Call,,,,,,Question,Coded,Follow-up Call To Patient ; Follow-up Call To Carer; Welfare Check Call ; Pharmacy Call ; Laboratory Call ; Healthcare Professional Call
+4f3023c4-b600-4ebf-9c37-1ab2c61a3e7c,,Other Ad-hoc Call (please specify),Please specify,,,,,Question,Text,
+d68ecf58-3936-46df-83da-60fc124035ff,,Details of Call,,,,,,Question,Text,
+d6f9d9c3-a33c-483a-973c-fd8913bb1edf,"",No immediate action needed,"","","","","",Misc,N/A,""
+503a60ce-7028-4a84-9161-c622fe268ef8,"",Inform Patients Doctor,"","","","","",Misc,N/A,""
+d3c6756c-1a07-4b2e-afcc-e790706c8fe3,"",Arrange OPD review,"","","","","",Misc,N/A,""
+968a2dc6-c096-4fd6-a85e-50fe11b5eacf,"",Inform Key Nurse,"","","","","",Misc,N/A,""
+4a455eeb-b6e3-46cf-bb1f-972adfcbc678,"",Call Pharmacist,"","","","","",Misc,N/A,""
+2662305a-1f13-4f1f-9376-117906e7104d,"",Call Laboratory,"","","","","",Misc,N/A,""
+c600d0fd-facc-461c-af4e-3d0838ca3351,"","Other Action Following Call ",Other Action,"","","","",Misc,N/A,""
+93f5d941-d8a6-4b23-b448-29521eea1a35,,Action Following Call,,,,,,Question,Coded,"No immediate action needed ; Inform Patients Doctor ; Arrange OPD review ; Inform Key Nurse ; Call Pharmacist; Call Laboratory ; Other Action Following Call "
+02c279ba-559a-4f80-a471-2f5657767c54,,Other Action(Specify),Specify Action,,,,,Question,Text,
+b6ae8d72-8eeb-4526-8a1a-532ee27580ce,"",Ad-hoc Calls And Actions,"","","","","",Misc,N/A,""
