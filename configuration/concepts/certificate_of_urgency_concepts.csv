@@ -1,0 +1,25 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:1,_order:22,Data class,Data type,Answers
+f078ea8e-cbdb-4f0a-adf4-db6fd0c68707,,Date/Time Arrival For assessment under COU,,,,,,Question,Date,
+cd6c3c00-2ce7-40a8-b0dc-24ff7723d90c,,Self-referral,,,,,,Misc,N/A,
+d47065a4-842e-420a-b5f6-dc75bfd4c0f1,,"
+Found in public a place",,,,,,Misc,N/A,
+889606ce-c300-4aec-b81c-751b829cd430,,"
+Brought by relative(s)",,,,,,Misc,N/A,
+260172b1-cf08-4c9b-8240-d3fd6ebb9a8d,,Social worker referral,,,,,,Misc,N/A,
+54c4dd1b-50de-4388-94d8-9e16c28a6bde,,"
+Healthcare professional referral",,,,,,Misc,N/A,
+5bd0b9cd-4937-4921-ad54-2b58229d74dd,,Referral from police custody,,,,,,Misc,N/A,
+960796f0-6ddf-4917-9c09-c860cd37a5a8,,Method Of Referral,,,,,,Question,Coded,"Self-referral ; Found in public a place ; Brought by relative(s) ; Social worker referral ; 
+Healthcare professional referral ; Referral from police custody"
+0e0e7033-a69f-48ed-9e01-69eebb74a16d,,Responsible District Assembly,,,"
+
+",,,Question,Text,
+56549f39-d090-4622-8caf-0972b24d291f,,Circumstances leading to Admission under COU,,,,,,Question,Text,
+c254d67c-3a6c-4108-843b-900f77328b6d,,Patient Accepts Medications,,,,,,Question,Boolean,
+71fd9600-7ef8-4b16-8ff4-56f3e9db0d72,,Name of the Doctor Issuing COU,,,,,,Question,Text,
+bb9d7a08-b4d4-4d00-92b0-7564f3e0d69e,,Date and Time of COU,,,,,,Question,Datetime,
+0a542f3e-cce6-4598-bffe-b23beafcdb94,,Date/Time Relatives Informed of COU?,,,,,,Question,Datetime,
+1620caba-fa80-4a60-80b2-2ef4f218940f,,Date/Time District Assembly was informed of COU?,,,,,,Question,Datetime,
+ce89d3c1-757f-4e94-a93f-941ccbc02708,,COU Image,,,,,,Misc,N/A,
+188eed27-f735-4a07-ad2a-479bd4139230,,Cou Video,,,,,,Misc,N/A,
+200c9fdf-c64b-425a-964c-5b58b334690e,,Certificate Of Urgency(Section 48),Certificate Of Urgency,,,,,Misc,N/A,

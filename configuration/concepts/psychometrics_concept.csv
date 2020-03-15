@@ -1,8 +1,0 @@
-Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:1,_order:8,Data class,Data type,Answers
-8aeb6de3-f683-4194-9cfe-5d22d20b225e,"",WHO Disability Assessment Schedule 2.0,WHODAS2.0 (12-Item),"","","","",Test,Numeric,""
-982e259b-9928-4dca-be0e-fa820f2d7c34,"",General Health Questionnaires,GHQ-12,"","","","",Test,Numeric,""
-d0826a9a-433c-4cad-a7db-63ed321a4722,"",Beck Depression Inventory,BDI,"","","","",Test,Numeric,""
-e66f8ced-ec94-4e01-8c96-3b72dc55f9df,"",Brief Psychiatric Rating Scale,BPRS,"","","","",Test,Numeric,""
-e8ba0e09-b669-4a0f-a8ab-bc9699c255f4,"",Mini Mental State Examination,MMSE,"","","","",Test,Numeric,""
-3c7b187f-8f1f-4810-8fc2-c8d7a33011ad,"",Positive and Negative Symptoms Scale,PANSS,"","","","",Test,Numeric,""
-c38669d1-3f10-11e4-adec-0800271c1b75,"",Second Vitals,Psychometrics,"","","","",Misc,N/A,""
