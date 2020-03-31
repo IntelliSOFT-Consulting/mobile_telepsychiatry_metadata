@@ -1,0 +1,11 @@
+Uuid,Void/Retire,Identifier type,Source Type,Name,Description,Prefix,Suffix,First identifier base,Min length,Max length,Base character set,_version:1,_order:6000
+c1d8a345-3f10-11e4-adec-0800271c1b75,yes,Patient Identifier,,GAN,,,,,,,,,
+c1d90956-3f10-11e4-adec-0800271c1b75,yes,Patient Identifier,,SEM,,,,,,,,,
+c1dbd8bd-3f10-11e4-adec-0800271c1b75,yes,Patient Identifier,,SIV,,,,,,,,,
+c1e39ece-3f10-11e4-adec-0800271c1b75,yes,Patient Identifier,"",BAH,"","","","","","","","",""
+1e53d85d-4b42-498e-877a-1b8ebd69637d,"",Patient Identifier,Local Identifier Generator,KPO,"",KPO,"",1,8,"",1234567890,"",""
+de5e5f72-db8c-488f-bbc6-213a46ecafd6,"",Patient Identifier,Local Identifier Generator,NKZ,"",NKZ,"",1,8,"",1234567890,"",""
+e7b1ab97-fb61-496d-9b82-92f36f48f4e8,"",Patient Identifier,Local Identifier Generator,TEC,"",TEC,"",1,8,"",1234567890,"",""
+dfbdf899-0f6e-4164-8c01-95f83a60e093,"",Patient Identifier,Local Identifier Generator,WEN,"",WEN,"",1,8,"",1234567890,"",""
+a1a7e96e-83b3-4c1c-b0c6-f24710e62a97,yes,National ID,Local Identifier Generator,National ID,"","","","","","","","",""
+2d40284b-e703-4bcc-a6d6-555e0c2b033d,,National ID,Local Identifier Generator,National Health Insurance,"",NHI,"",1,8,"",1234567890,"",""
