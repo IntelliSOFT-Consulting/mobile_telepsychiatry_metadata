@@ -1,0 +1,32 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:1,_order:35,Data class,Data type,Answers
+3bfcc945-ea0a-4fd3-84df-6526221fd775,,Payment Date,Payment Date,,,,,Question,Numeric,
+095043d0-f49f-4224-ab61-286b3e284774,,Pre Payment,Pre Payment,,,,,Misc,N/A,
+3fb23824-a20c-4bb9-b175-e15943cb1d59,,Post payment,Post payment,,,,,Misc,N/A,
+1d8d6ac4-8674-4917-a490-179d913b6f4e,,Payment Type,Payment Type,,,,,Question,Coded,"Pre Payment ; Post Payment  "
+a7e3e67b-45ec-45dd-83b0-184cfdb32f53,,Mobile Money,Mobile Money,,,,,Misc,N/A,
+006c54ba-254d-4348-841d-83c78e741774,,Bank Transfer,Bank Transfer,,,,,Misc,N/A,
+0c12104b-9af4-494c-81d1-a628fa5d38cd,,Mode of Payment,Mode of Payment,,,,,Question,Coded,Mobile Money ; Bank Transfer
+d8445d35-63c3-4cbb-aaa7-7b93398dddab,,MTN,MTN,,,,,Misc,N/A,
+d8445d35-63c3-4cbb-aaa7-7b93398dd444,,Vodafone,Vodafone,,,,,Misc,N/A,
+d8445d35-63c3-4cbb-aaa7-7b93398d4444,,Tigo,Tigo,,,,,Misc,N/A,
+d8445d35-63c3-4cbb-aaa7-7b9339844444,,Airtel,Airtel,,,,,Misc,N/A,
+d8445d35-63c3-4cbb-aaa7-7b93398d6666,,Mobile Money Network,Mobile Money Network,,,,,Question,Coded,MTN ; Vodafone ; Tigo ; Airtel
+d8445d35-63c3-4cbb-aaa7-7b93398d5656,,Ecobank,Ecobank,,,,,Misc,N/A,
+d8445d35-63c3-4cbb-aaa7-7b93398d8787,,Other Bank,Other Bank,,,,,Misc,N/A,
+d8445d35-63c3-4cbb-aaa7-7b93398d8965,,Name of Bank,Name of Bank,,,,,Question,Coded,Ecobank ; Other Bank
+d8445d35-63c3-4cbb-aaa7-7b93398d8264,,Transactional Code,Transactional Code,,,,,Question,Text,
+d8445d35-63c3-4cbb-aaa7-7b93398d3455,,Admin(Non-clinical) visit,Admin(Non-clinical) visit,,,,,Misc,N/A,
+d8445d35-63c3-4cbb-aaa7-7b93398d9999,,Initial Home Visit,Initial Home Visit,,,,,Misc,N/A,
+d8445d35-63c3-4cbb-aaa7-7b93398d8782,,Follow-up Home Visit,Follow-up Home Visit,,,,,Misc,N/A,
+d8445d35-63c3-4cbb-aaa7-7b93398d0000,,Initial facility-based Visit,Initial facility-based Visit,,,,,Misc,N/A,
+3031c121-fccc-47a8-8130-4693290d4e45,,Initial Mobile Teleconsultation,Initial Mobile Teleconsultation,,,,,Misc,N/A,
+ed9af7e7-f3d7-4802-98d7-286e62be37c9,,Follow-up Mobile Teleconsultation,Follow Up Mobile Teleconsultation,,,,,Misc,N/A,
+"76f8f888-aabd-4250-8d52-8e23e6f0532c ",,"Initial Rendez-Vous Assessment  ","Initial Rendez-Vous Assessment  ",,,,,Misc,N/A,
+a5ca5091-a0c6-4070-a00d-741e661e9c5d,,Follow -up Rendez-Vous Assessment  Visit,"Follow -up Rendez-Vous Assessment  ",,,,,Misc,N/A,
+956c9790-452e-47f4-a551-fc3ad54170f2,,Consultation service type paid for,Consultation service type paid for,,,,,Question,Coded,Admin(Non-clinical) visit ; Initial Home Visit ; Follow-up Home Visit ; Initial facility-based Visit ; Initial Mobile Teleconsultation ; Follow-up Mobile Teleconsultation ; Initial Rendez-Vous Assessment   ; Follow -up Rendez-Vous Assessment  Visit ; Follow -up Rendez-Vous Assessment  Visit
+b184139c-2176-4f65-8bef-9236cdea8e1c,,Prescription Only,Prescription Only,,,,,Misc,N/A,
+d5a1e091-94e2-4dd7-a446-21d3deab37db,,Prescription & Delivery,Prescription & Delivery,,,,,Misc,N/A,
+"e8afe334-c395-49c8-b7dc-e7a5b5dbdf71 ",,NHIA Co-Pay,NHIA Co-Pay,,,,,Misc,N/A,
+10b053d4-d458-46a9-babb-5a54dc963e0b,,Additional Services Being Paid For,Additional Services Being Paid For,,,,,Question,Coded,Prescription Only ; Prescription & Delivery ; NHIA Co-Pay
+9a8e7984-ef07-4e2c-8be8-07c9784413dd,,Charge for the Service(s) (GHs),Charge for the Service(s) (GHs),,,,,Question,Numeric,
+c446af3d-3f10-11e4-adec-0800271c1b75,"",Fee Information,,"","","","",Misc,N/A,
