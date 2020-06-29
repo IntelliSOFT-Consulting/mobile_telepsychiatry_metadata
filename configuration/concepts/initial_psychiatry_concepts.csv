@@ -119,9 +119,6 @@ ab8cca17-b4a5-4bad-a717-071ced1144cd,,Refugee/internally displaced family,,,,,,M
 25098cbe-07a7-41e4-a6d7-601e4d179e02,,"Other childhood family circumstances(specify) ",Please Specify,,,,,Misc,N/A,
 a5174c61-7fd8-40c4-8ef2-94cfebc5628b,,Personal History: childhood family circumstances,,,,,,Question,Coded,"CHILD OF HIV PATIENT IN CLINIC ; History of exposure to domestic violence ; Parent(s) with drug/alcohol problems ; Indigent ; Adoptive family or relatives ; Refugee/internally displaced family ; Raised by single parent ; Immigrant family in new country ; Gay/lesbian parent(s) ; Parent(s) with mental illness ; Other childhood family circumstances(specify) "
 e76b1f90-72ea-436b-bd5b-99d20b15059f,,Specify other childhood family circumstances,Specify,,,,,Question,Text,
-1b010507-63d2-436e-a572-c5ddb45129b1,,Private mainstream education,,,,,,Misc,N/A,
-1b342e33-5343-4d44-a0eb-f1949b3b456d,,Special basic education (Please specify),Please Specify,,,,,Misc,N/A,
-043d3f91-c72f-4c87-8841-13ed11ec3640,,"Personal history, basic education",Basic Education,,,,,Question,Coded,Uneducated ; Public Mainstream Education; Private mainstream education ; Special basic education (Please specify)
 b439e411-f228-4de5-b181-326c24c1e7d7,,Special basic education (More details),Specify,,,,,Question,Text,
 4c4b4bac-06d2-49cd-92c1-ebd2f84bb74a,,Difficulty paying school fees,,,,,,Misc,N/A,
 c538df9d-12b3-4c84-a75f-26f2e674f3ec,,Frequent change of schools,,,,,,Misc,N/A,
@@ -145,14 +142,14 @@ c538df9d-12b3-4c84-a75f-26f2e674f3ec,,Has socially unacceptable sexual orientati
 6a2a8741-0452-4411-8c76-83a5f3e84589,,Additional personal history (Please specify),Please Specify,,,,,Misc,N/A,
 1e091f17-d991-4453-8ad8-5d4fc751b49d,,"Personal History, Relationships",,,,,,Question,Coded,Teenage/arranged marriage ; Had  teenage pregnancy ; Frequent changes of relationships ; Has many children ; Currently in a stable relationship or marriage ;  Unsupportive nuclear family ; Unsuportive extended family ; Has socially unacceptable sexual orientation ; Additional personal history (Please specify)
 ec351574-f474-4892-98e1-93a71e8e03e0,,Additional personal history (Give details),Specify,,,,,Question,Text,
-aed80678-d6fd-4b48-ad8a-2b81ccd33e7f,,Has history of nicotine addiction,,,,,,Misc,N/A,
 e0d42dc3-4e14-11e4-8a57-0800271c1b75,,"Alcohol abuse, unspec.",Alcohol addiction/misuse,,,,,Misc,N/A,
 15318BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,Narcotic abuse,Opiate addiction/misuse,,,,,Diagnosis,N/A,
+fd12112c-2be9-48d0-a900-85c15eac327c,,History of nicotine addiction,Nicotine Addition,,,,,Misc,N/A,
 46136BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,Cannabis Abuse,Cannabis addiction/misuse,,,,,Diagnosis,N/A,
 97e0ff4f-6dfc-4fc5-b4eb-7b8c41062637,,"Comorbidities, Drugs (Cocaine)",Cocaine addiction/misuse,,,,,Misc,N/A,
 21783BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,"Amphetamine Abuse, Continuous",Amphetamine addiction/misuse,,,,,Diagnosis,N/A,
 18080BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,Hallucinogen Abuse,Hallucinogen addiction/misuse,,,,,Diagnosis,N/A,
-30947242-1e4a-464c-a9de-a273c09fe577,,Has history of multiple drug abuse/misuse,Multiple drug abuse/misuse,,,,,Misc,N/A,
+334b17fe-722b-43d3-b7eb-b911a624d7f7,,History of multiple drug abuse/misuse,Multiple drug abuse/misuse,,,,,Misc,N/A,
 a11e6e89-b86d-4322-a3dc-05ca9fa251e8,,Please Specify Drug history details,Please Specify,,,,,Misc,N/A,
-f2b0e92c-5975-4835-9821-1e86b2070b72,,Drug and alcohol history,,,,,,Question,Coded,"Has history of nicotine addiction ; Alcohol abuse, unspec. ; Narcotic abuse ; Cannabis Abuse ; Comorbidities, Drugs (Cocaine) ; Amphetamine Abuse, Continuous ; Hallucinogen Abuse ; Has history of multiple drug abuse/misuse ; Please Specify Drug history details"
+f2b0e92c-5975-4835-9821-1e86b2070b72,,Drug and alcohol history,,,,,,Question,Coded,"History of nicotine addiction ; Alcohol abuse, unspec. ; Narcotic abuse ; Cannabis Abuse ; Comorbidities, Drugs (Cocaine) ; Amphetamine Abuse, Continuous ; Hallucinogen Abuse ; History of multiple drug abuse/misuse ; Please Specify Drug history details"
 3a8bb8bb-97a3-4f95-a8f0-f9f4d6302265,,Additional drug history details (Specify),Specify,,,,,"Question ",Text,
