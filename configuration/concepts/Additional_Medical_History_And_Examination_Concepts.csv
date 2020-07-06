@@ -25,9 +25,9 @@ e4ec4d56-4e14-11e4-8a57-0800271c1b75,,"Hypotension, orthostatic","Hypotension, o
 2286BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,Rhonchi,Rhonchi,,,,,Finding,N/A,
 2232BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,Crepitations,Basal crepitations,,,,,Finding,N/A,
 e555f79d-4e14-11e4-8a57-0800271c1b75,,"Pulmonary edema, acute",Pulmonary edema,,,,,Diagnosis,N/A,
-668a9a87-f579-4a71-ab69-0cfc56c30ce4,,Add cardiovascular system features/details,,,,,,Misc,N/A,
+668a9a87-f579-4a71-ab69-0cfc56c30ce4,,Add cardiovascular system features/details,Please Specify,,,,,Misc,N/A,
 0fc88b7e-55a6-4064-9a3e-e9eba6379ccd,,Cardiovascular symptoms and signs,,,,,,Question,Coded,"Orthopnea ; Chest Pain ; Dyspnea ; Dyspnoea on effort ; Palpitations ; Tachycardia, paroxysmal SVT ; Bradycardia ; Paroxysmal Nocturnal Dyspnoea ; Hemoptysis ; Intermittent claudication ; Cold extremetes ; Varicose Veins (Varicose veins of lower extremities) ; Hypertension ; Hypotension, orthostatic ; Heart Murmur ; Gallop rhythm ; Rhonchi ; Crepitations ; Pulmonary edema, acute ; Add cardiovascular system features/details"
-e39c118c-b8fd-43be-9f59-1bfda14cda6d,,Please add more cardiovascular system features/details,,,,,,Question,Text,
+e39c118c-b8fd-43be-9f59-1bfda14cda6d,,Please add more cardiovascular system features/details,Specify,,,,,Question,Text,
 1e2918fb-4e15-11e4-8a57-0800271c1b75,,Cough,,,,,,Misc,N/A,
 1e0f4158-4e15-11e4-8a57-0800271c1b75,,Chest Pain,,,,,,Misc,N/A,
 22819b29-2d65-4051-acdd-747eee53bf1a,,Greenish or brownish or brownish sputum,,,,,,Misc,N/A,
