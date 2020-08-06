@@ -1,0 +1,16 @@
+Uuid,Answers,Members,Fully specified name:en,Short name:en,Data class,Data type,_version:1,_order:249
+"7e65861a-327e-43bb-a689-389452a19aay ",,"Mobile ECG (Exercise);
+Mobile ECG (Ambulatory);
+Mobile ECG (Resting);
+Standard ECG (Resting);
+Standard ECG (Ambulatory);
+Standard ECG (Exercise)",ECG Tests,ECG,ConvSet,N/A,,
+d1c59dda-0797-4b67-bda1-99d2377929d3,,"Routine (Mobile) EEG;
+Ambulatory (Mobile) EEG;
+Sleep (Mobile) EEG;
+Video telemetry (Mobile)",EEG Tests,EEG,ConvSet,N/A,,
+81e95bce-3f10-11e4-adec-0800271c1b75,"","Chest ;Neck ;Other Radiology ;
+Head ;Face ;Shoulder; Arm ;
+Leg ;Ribs ;Hand ;Hip ;Knee ;
+Abdomen ;Pelvis ;Spine ;
+Special X Rays ; ECG Tests ; EEG Tests",Radiology Orders,Radiology,ConvSet,N/A,"",""

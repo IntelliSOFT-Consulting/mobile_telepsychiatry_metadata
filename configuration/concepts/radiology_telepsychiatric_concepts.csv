@@ -1,0 +1,11 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:1,_order:248,Data class,Data type,Answers
+af08ff13-c040-4eb5-8832-9b22bd460a14,,Mobile ECG (Exercise),,,,,,Radiology,Text,
+43d9c6ba-29db-45b0-8839-4c28d42c6d35,,Mobile ECG (Ambulatory),,,,,,Radiology,Text,
+bf093e43-10ab-4a29-a9ea-d3db2ee05d40,,Mobile ECG (Resting),,,,,,Radiology,Text,
+f384c444-b773-4dcc-9d66-9e76458feffb,,Standard ECG (Resting),,,,,,Radiology,Text,
+8339ac42-a4c0-424e-9e23-760c953bbef0,,Standard ECG (Ambulatory),,,,,,Radiology,Text,
+e6848cc3-11b4-4e5d-adf8-f635d7eac20a,,Standard ECG (Exercise),,,,,,Radiology,Text,
+b9459f15-82ea-4394-abe0-930f381d32ab,,Routine (Mobile) EEG,,,,,,Radiology,Text,
+2e0441a5-c2e1-4420-8936-1a7643bb5c4b,,Ambulatory (Mobile) EEG,,,,,,Radiology,Text,
+3a6fc4e3-69d3-4620-b933-b6a27b39512c,,Sleep (Mobile) EEG,,,,,,Radiology,Text,
+b0f363e3-3995-45df-bc13-f75ae5ccc3e4,,Video telemetry (Mobile),,,,,,Radiology,Text,
