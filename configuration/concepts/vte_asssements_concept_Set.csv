@@ -1,0 +1,33 @@
+Uuid,Answers,Members,Fully specified name:en,Short name:en,Data class,Data type,_version:1,_order:17
+cfa48190-b2bf-4797-99ef-26ccd6f04d2c,,,Date/Time of VTE assessment,"",Question,Datetime,"",""
+48c4a356-ec05-4886-828a-72a05c3d9b53,,,Venothrombotic Episode,,Question,Boolean,,
+38b8cebf-7eb8-483f-90c8-b42bf3a8ad0b,"At admission;
+24 hours after admission;
+Initiating a medications that increases VTE risk;
+Change in clinical presentation",,Point of Completion of VTE risk assessment,,"Question ",Coded,,
+36bcdf60-9f1b-4b4e-8d61-d37ffaf67430,,,Patient's mobility,,Question,Boolean,,
+2253ce70-570d-430f-8715-5bfddb31cf16,"Low VTE risk;
+Moderate VTE risk;
+High VTE risk",,Risk of VTE,,Question,Coded,,
+77dd64e5-7079-4f73-89ce-ae3ca81c9b2f,"Significantly reduced mobility for 3 days or more;
+Active cancer or cancer treatment;
+Thrombosis risk - Dehydration ; 
+Known thrombophilias;
+Obesity (BMI greater than 30kg/m2);
+Personal history or first-degree relative with a history of VTE;
+Recent surgery with significant reduction in mobility;
+Use of hormone replacement therapy (HRT) or oestrogen-containing contraceptive therapy;
+Use of antipsychotics;One or more significant medical co-morbidities",,Thrombosis risk,,Question,Coded,,
+9e7d2890-6189-4668-8c3b-79f94334f5de,"Active GI bleeding or risk of GI bleed ; 
+Acquired bleeding disorders (such as acute liver failure) ; 
+Concurrent use of anticoagulants known to increase the risk of bleeding (such as Warfarin with INR > 2) ;
+Acute stroke ;
+Uncontrolled systolic hypertension (>= 230/120 mmHg); Thrombocytopenia ; 
+Untreated inherited bleeding disorders (such as haemophilia or von Willebrand's disease);
+Other conditions with high risk of serious bleed",,Bleeding risk,,Question,Coded,,
+b4f3e94e-3fd6-4705-ab83-94b98cf4db0e,,,High risk patient identified?,,Question,Boolean,,
+650c8513-c796-4d19-a8a1-46ff1458450a,"Early mobilisation (Encourage patients to mobilise as soon as possible) ; 
+Consider mechanical VTE prophylaxis (e.g. Elastic stockings) ; 
+Pharmacological VTE prophylaxis  (Do not regard aspirin or other anti-platelet agents as adequate prophylaxis for VTE) ; 
+Any risks identified refer the patient to the relevant Acute Hospital department",,Recommended prophylaxis,,Question,Coded,,
+aab8d525-0764-4cd4-855b-3fdab1087c9b,,Date/Time of VTE assessment ; Venothrombotic Episode ; Point of Completion of VTE risk assessment ; Patient's mobility ; Risk of VTE ; Thrombosis risk ; Bleeding risk ; High risk patient identified? ; Recommended prophylaxis,"VTE Assessment ",,Misc,N/A,,
