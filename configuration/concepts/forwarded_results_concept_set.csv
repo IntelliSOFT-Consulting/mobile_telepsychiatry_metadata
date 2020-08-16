@@ -1,0 +1,14 @@
+Uuid,Answers,Members,Fully specified name:en,Short name:en,Data class,Data type,_version:1,_order:20
+d26d50a9-c962-4ed3-ad77-028d33b83ff7,"Haematology Tests ; 
+Biochemistry Tests ; 
+Microbiology Tests  ;
+Radiology Tests ;
+URINALYSIS ORDER ; 
+Electroencephalogram ; 
+ECG Order ; 
+Other tests",,Type of investigation requested,,Question,Coded,,
+5b7b2df0-49d6-4c83-8077-424a2d421395,,,Patient instructed to repeat test?,,Question,Boolean,,
+b8227337-1e2f-4f9e-b5fc-a5e89e0e3a8b,,"Date investigation requested ; Type of investigation requested ; Specify other Type of investigation requested	;
+Comments on results ; 
+Repeat tests later on/around ; 
+Patient instructed to repeat test? ; Consultation Images ; Patient Video",Forwarded Results,,Misc,N/A,,
