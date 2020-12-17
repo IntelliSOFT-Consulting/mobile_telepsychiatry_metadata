@@ -6,3 +6,47 @@ ae2e3b26-ea4e-4918-a14b-40cfd85f1ded,,Death by suicide,Suicide,,,,,Misc,N/A,
 9f232320-de64-424a-bbb6-05ae3f9c507d,,Death from medical complications,,,,,,Misc,N/A,
 "f2f4576a-eea3-4d1b-b028-c1762debc104 ",,Death from natural causes,,,,,,Misc,N/A,
 875b4309-5136-4966-bf85-b5cee93871db,,"Sudden death, cause unknown",,,,,,Misc,N/A,
+b93c3ff5-1eae-499a-b5cc-8568989d1avd,,"carelevel, Standard",Standard,,,,,Misc,N/A,
+b93c3ff5-1eae-499a-b5cc-8568989d1aad,,"carelevel, Enhanced",Enhanced,,,,,Misc,N/A,
+3e68806c-af08-4255-a70d-f9cb7b87b52c,,Care Level,,,,,,Question,Coded,"carelevel, Standard;
+carelevel, Enhanced"
+f2decc33-9979-42f7-b889-9a5464e68312,,Uninsured,,,,,,Misc,N/A,
+f2decc33-9979-42f7-b889-9a5464e68313,,Corporate,,,,,,Misc,N/A,
+f2decc33-9979-42f7-b889-9a5464e68314,,National Insurance,,,,,,Misc,N/A,
+f2decc33-9979-42f7-b889-9a5464e68315,,Insurance Class,,,,,,Question,Coded,"Uninsured;
+Corporate;
+National Insurance"
+3c6a45c9-45dc-4c1d-bef9-941e39e46874,,Eng,,,,,,Misc,N/A,
+6cf6c535-8864-4d8b-9979-bde34ff5dc55,,Twl,,,,,,Misc,N/A,
+acb28dde-8a84-45ee-96af-52ebc99cedec,,Fante,,,,,,Misc,N/A,
+6707ba4f-fa4e-4469-bf73-4da2950a78d8,,Ga,,,,,,Misc,N/A,
+9f9519f7-bf1f-4a10-931a-a565ff3268fe,,Ewe,,,,,,Misc,N/A,
+790642a5-685c-46e8-8860-763b59a51075,,Hausa,,,,,,Misc,N/A,
+6a279247-362f-41d0-a685-cb9125d088d6,,Dagarti,,,,,,Misc,N/A,
+2064512d-6d60-4dd3-a81e-4886a197444e,,Preferred Language,,,,,,Question,Coded,"Eng;
+Twl;
+Fante;
+Ga;
+Ewe;
+Hausa;
+Dagarti"
+3f4bac18-7838-4444-ba15-67d4167d26ad,,Ghanaian,,,,,,Misc,N/A,
+b22356c0-ed52-4d85-8135-3b2c88d7dc4a,,Nigerian,,,,,,Misc,N/A,
+77eac51c-1ba1-4842-91a4-ddf70978685a,,Togolese,,,,,,Misc,N/A,
+3ade0ef8-e395-4fc7-9e46-6cec62063c9f,,Burkinabe,,,,,,Misc,N/A,
+01b61bc1-51fb-4345-8e2a-39d5e25c92e4,,Ivorian,,,,,,Misc,N/A,
+eb68706f-8fe3-4dd8-abba-4c54e2450ea1,,Other Nationality,,,,,,Misc,N/A,
+1289c2e3-0f4e-4e19-88b3-2065f8a1ff80,,Nationality,,,,,,Question,Coded,"Ghanaian ; 
+Nigerian ; 
+Togolese ; 
+Burkinabe ; 
+Ivorian ; 
+Other Nationality"
+86980a09-60be-475b-86cf-d2531b85437b,,Christian,,,,,,Misc,N/A,
+0ecb5a90-fe63-456f-8815-a4431bcdf74b,,Moslen,,,,,,Misc,N/A,
+9f7604bc-c259-4203-8a26-605715a8c412,,Traditionalist,,,,,,Misc,N/A,
+73c5a51d-2236-448d-bc05-91b671b0fe38,,Other Religion,,,,,,Misc,N/A,
+fe9549f4-2466-47ec-afc8-1928d90e5d47,,Religion,,,,,,Question,Coded,"Christian;
+Moslen;
+Traditionalist;
+Other Religion"
