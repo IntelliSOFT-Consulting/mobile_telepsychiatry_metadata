@@ -1,5 +1,7 @@
 Uuid,Void/Retire,Name,Description,Format,Foreign uuid,Searchable,Edit privilege,_order:1000,_version:1
-2babc06f-dc8c-4e06-97b3-d97ce199f4d7,,primaryContact(MTN/WhatsApp),Primary Nurse Name And Contact(s),java.lang.String,,yes,,,
+2babc06f-dc8c-4e06-97b3-d97ce199f4d7,,primaryContact(MTN/WhatsApp),Primary Contact (MTN/WhatsApp),java.lang.String,,yes,,,
+8d927881-4568-4312-9d6e-bef63f38f354,,SecondaryContact(Non-MTN),Secondary Contact (Non-MTN),java.lang.String,,,,,
+66d44bec-a274-4863-ad31-30ab9cc9ac3a,,PrimaryNurseNameAndContact(s),Primary Nurse Name And Contact(s),java.lang.String,,,,,
 d2bc33e9-2a45-48ee-8e54-2f8aaeb16dc4,,whatsappContact,WhatsApp Contact,java.lang.String,,,,,
 8421b9a2-d48f-4f8e-a802-1a6b7bfe79b9,,emailAddressofPatient,Email Address Of Patient,java.lang.String,,yes,,,
 0b41e53d-6edb-436f-ae93-b5df2572c294,,principalCarerContact(s),Principal Carer Contact(s),java.lang.String,,yes,,,
@@ -8,7 +10,7 @@ d2bc33e9-2a45-48ee-8e54-2f8aaeb16dc4,,whatsappContact,WhatsApp Contact,java.lang
 4ca688b7-bbdf-4871-9df3-67a359371c89,,insuranceClass,Insurance Class,org.openmrs.Concept,f2decc33-9979-42f7-b889-9a5464e68315,,,,
 f7d67027-e7bf-4366-a137-876c38fc0b1c,,Nationality,Nationality,org.openmrs.Concept,1289c2e3-0f4e-4e19-88b3-2065f8a1ff80,yes,,,
 f4145584-a129-4485-9554-050a55061962,,otherNationality(PleaseSpecify),Other Nationality (Please Specify),java.lang.String,,yes,,,
-63760282-aa68-484c-a50e-bfde674ec090,yes,Religion,Religion,org.openmrs.Concept,fe9549f4-2466-47ec-afc8-1928d90e5d47,yes,,,
+63760282-aa68-484c-a50e-bfde674ec090,,Religion,Religion,org.openmrs.Concept,fe9549f4-2466-47ec-afc8-1928d90e5d47,yes,,,
 464b758a-62c1-4fe9-8670-daed5169eb68,,preferredLanguage,Preferred Language,org.openmrs.Concept,2064512d-6d60-4dd3-a81e-4886a197444e,yes,,,
 3050d63e-daf5-48ed-b8e9-4e94836b01e9,,currentManagementPlan/Message:,Current Management Plan/Message:,java.lang.String,,yes,,,
 3f7ec1ce-1a04-4984-88c8-7c3c9579b310,yes,otherOutstandingItem(s),Other Outstanding Item(s),java.lang.String,,yes,,,
@@ -17,14 +19,13 @@ edc8b547-e9b2-4b5d-bf6b-3650d3b705af,yes,preferredPharmacy,Preferred Pharmacy,or
 9234695b-0f68-4970-aeb7-3b32d4a2b346,yes,isUrban,,java.lang.Boolean,,,,,
 d98fb235-fe0d-4ac6-9c11-72971055e706,yes,preferredLAb,Preferred Lab,org.openmrs.Concept,b0563204-c306-40fd-8592-00501af3b478,yes,,,
 303ffa04-7c70-40e3-b7b0-b030a87b586c,yes,paymentCategory,Payment Category,org.openmrs.Concept,dfb94609-108e-4dd3-9844-42826d42913a,yes,,,
-b99b6195-4002-4711-9971-4a98bf051b72,yes,accountStatus,Account Status,org.openmrs.Concept,3dce4593-b110-42bc-b3a3-b1f136bc27ee,yes,,,
 c1f7d1f1-3f10-11e4-adec-0800271c1b75,yes,occupation,,org.openmrs.Concept,c221869a-3f10-11e4-adec-0800271c1b75,yes,,,
 9d1a9d85-d6bd-461a-8c66-4affb29d2c6a,yes,nameofEmployerBusiness,Name of Employer/Business,java.lang.String,,yes,,,
 dc32f599-abb1-4925-82d4-55199f52fa0f,yes,employerBusinessAddress,Employer/Business Address,java.lang.String,,yes,,,
 91e25f34-759e-44dc-a8c8-13184c84a03b,yes,employerBusinessContact,Employer/Business Contact,java.lang.String,,yes,,,
 9b3a30e5-1845-4f84-8f12-e1640af97976,yes,employerBusinessLocation,Employer/Business Location,java.lang.String,,yes,,,
 c82b65db-a53b-4413-a4b4-355bcf4382de,yes,principalCarer,Principal Carer,java.lang.String,,yes,,,
-a437676d-45cf-4779-b1be-8f76a3942690,yes,Tribe,Tribe,org.openmrs.Concept,286bc40d-621f-4718-9cc2-a0978828a422,yes,,,
+a437676d-45cf-4779-b1be-8f76a3942690,,Tribe,Tribe,org.openmrs.Concept,286bc40d-621f-4718-9cc2-a0978828a422,yes,,,
 a8fa9c7b-7b29-45e9-a152-83e117c66650,yes,"otherTribe(Pleasespecify)
 ",Other Tribe (Please specify),java.lang.String,,yes,,,
 69e1805d-04c0-40fd-b88c-b41c0b78d032,yes,"patientContact2(Non-MTN)
