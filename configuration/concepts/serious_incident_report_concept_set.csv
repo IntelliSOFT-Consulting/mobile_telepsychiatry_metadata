@@ -1,4 +1,0 @@
-Uuid,Answers,Members,Fully specified name:en,Short name:en,Data class,Data type,_version:1,_order:11
-5273b2b5-f884-48e1-889d-c79a62b2e8a8,During Phonecall ; Outpatients Dept. ;  Inpatient Ward/Office ; Patient's Home ; Outside Patient's Home,,Place of Serious Incident,,Question,Coded,,
-be333f1b-a84e-4677-8cfe-db4f584942e0,No Further Action ; Reported to Admin ; Reported to Police ; Other Action taken(Specify),"",Action Taken Following Incident,"",Question,Coded,"",""
-95a06389-5905-44bf-9134-3166c486b103,"",Date/Time of Serious Incident ;Place of Serious Incident ; Does incident involve a staff? ; Details of Serious Incident (Please attach document) ; Action Taken Following Incident ; Other Action Taken (Please specify) ; Risk assessment done and documented?,Serious Incident Report,"",Misc,N/A,"",""

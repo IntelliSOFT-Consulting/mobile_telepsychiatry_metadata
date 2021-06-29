@@ -1,7 +1,0 @@
-Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:1,_order:5,Data class,Data type,Answers
-c3949eb6-3f10-11e4-adec-0800271c1b75,,Chief Complaint Data,,,,,,Concept Details,N/A,
-c398a4be-3f10-11e4-adec-0800271c1b75,,Chief Complaint Notes,,,,,,Misc,Text,
-c3998f6b-3f10-11e4-adec-0800271c1b75,,History Notes,,,,,,Misc,Text,
-c39a35e2-3f10-11e4-adec-0800271c1b75,,Examination Notes,,,,,,Misc,Text,
-c2a43174-c9db-4e54-8516-17372c83537f,,Smoking History,,,,,,Misc,Boolean,
-de9fbf5e-6ca4-46d7-a918-4cfde6fc9341,"",Additional history and physcial exam,Additional History & Physical Exam,"","","","",Misc,N/A,""

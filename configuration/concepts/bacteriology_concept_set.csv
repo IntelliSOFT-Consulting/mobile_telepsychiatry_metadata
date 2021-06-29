@@ -1,0 +1,6 @@
+Uuid,Answers,Members,Fully specified name:en,Short name:en,Data class,Data type,_version:1,_order:36
+f999e06c-d8cc-11eb-b8bc-0242ac130003,"Upheld; Revoked;DISCHARGE
+
+",,Outcome of Appeal Against Section,,Question,Coded,,
+f999dd88-d8cc-11eb-b8bc-0242ac130003,,,Mental Health Tribunal Notified,,Question,Boolean,,
+695ed8c1-12b2-11e6-8c00-080027d2adbd,,"Date/Time Patient was Sectioned ;Section Number ; Mental Health Tribunal Notified ;Planned Section Review Date;Outcome of Appeal Against Section ; Section Lapse/Discharge DateTime ;Other MHA-Related Info ",Bacteriology Results,Results,Bacteriology Results,N/A,,

@@ -1,4 +1,14 @@
-Uuid,Answers,Members,Fully specified name:en,Short name:en,Data class,Data type,_version:1,_order:21
-f3aa66c5-6c90-4777-94b9-c0c4fb315930,Haematology Tests ; Biochemisty Tests ; Radiology Tests,,Type of investigation requested,,Question,Coded,,
-78008723-5534-4041-b594-dc37840efaa4,No immediate Action Needed ; Immediate Patient Contact ; Immediate Repeat of Test,,Action To Be Taken On Results,,Question,Coded,,
-c4687f34-f100-439f-8b69-59c01b5a535b,,Date Investigation Requested ; Type of investigation requested ; Consultation Images ; Patient Video ; Comments On Results ; Repeat Tests later -on/around ; Patient Instructed To Repeat Test?,Forwarded Results,,Misc,N/A,,
+Uuid,Answers,Members,Fully specified name:en,Short name:en,Data class,Data type,_version:1,_order:20
+d26d50a9-c962-4ed3-ad77-028d33b83ff7,"Haematology Tests ; 
+Biochemistry Tests ; 
+Microbiology Tests  ;
+Radiology Tests ;
+URINALYSIS ORDER ; 
+Electroencephalogram ; 
+ECG Order ; 
+Other tests",,Type of investigation requested,,Question,Coded,,
+5b7b2df0-49d6-4c83-8077-424a2d421395,,,Patient instructed to repeat test?,,Question,Boolean,,
+b8227337-1e2f-4f9e-b5fc-a5e89e0e3a8b,,"Date investigation requested ; Type of investigation requested ; Specify other Type of investigation requested	;
+Comments on results ; 
+Repeat tests later on/around ; 
+Patient instructed to repeat test? ; Consultation Images ; Patient Video",Forwarded Results,,Misc,N/A,,

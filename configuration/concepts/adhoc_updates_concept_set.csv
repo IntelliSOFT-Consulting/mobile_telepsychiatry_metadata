@@ -1,0 +1,18 @@
+Uuid,Answers,Members,Fully specified name:en,Short name:en,Data class,Data type,_version:1,_order:14
+a92aca40-8f13-45bc-a27c-ff2cddd521ad,"Patient Update ; 
+Carer Update ; 
+Doctor Update ; 
+Pharmacy Update ; 
+Laboratory Update ; 
+Other Healthcare Professional Update ; 
+Other Professional Update (Please specify)",,Source of Update,,Question,Coded,,
+6ac9dd32-fb3d-41c6-999d-e375802a60ac,"No immediate Action Needed ; 
+Call Patient/Carer Immediately ; 
+Arrange OPD Review ; 
+Inform Patient's Doctor ; 
+Inform Key Nurse ; 
+Call The Pharmacist ; 
+Call The Laboratory ; 
+Other Following Action (please specify)",,Action Following Update,,Question,Coded,,
+cca8a3dd-7c07-492f-90bb-114d5d53f160,,"Date/Time of Update ; Source of Update ; 
+Other Professional Update (Specify) ; Content of Update ; Action Following Update ; Other Action (Specify)",Adhoc Updates(Medical),,Misc,N/A,,
