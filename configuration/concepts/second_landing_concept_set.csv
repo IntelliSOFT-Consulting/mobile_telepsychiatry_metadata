@@ -1,0 +1,8 @@
+Uuid,Answers,Members,Fully specified name:en,Short name:en,Data class,Data type,_version:1,_order:36
+1d8d6ac4-8674-4917-a490-179d913b6f4e,"Pre Payment ; Post Payment  ","",Payment Type,"",Question,Coded,"",""
+0c12104b-9af4-494c-81d1-a628fa5d38cd,Mobile Money ; Bank Transfer,"",Mode of Payment,"",Question,Coded,"",""
+d8445d35-63c3-4cbb-aaa7-7b93398d6666,MTN ; Vodafone ; Tigo ; Airtel,"",Mobile Money Network,"",Question,Coded,"",""
+d8445d35-63c3-4cbb-aaa7-7b93398d8965,Ecobank ; Other Bank,"",Name of Bank,"",Question,Coded,"",""
+956c9790-452e-47f4-a551-fc3ad54170f2,Admin(Non-clinical) visit ; Initial Home Visit ; Follow-up Home Visit ; Initial facility-based Visit ; Initial Mobile Teleconsultation ; Follow-up Mobile Teleconsultation ; Initial Rendez-Vous Assessment   ; Follow -up Rendez-Vous Assessment  Visit ; Follow -up Rendez-Vous Assessment  Visit,"",Consultation service type paid for,"",Question,Coded,"",""
+10b053d4-d458-46a9-babb-5a54dc963e0b,Prescription Only ; Prescription & Delivery ; NHIA Co-Pay,"",Additional Services Being Paid For,"",Question,Coded,"",""
+c446af3d-3f10-11e4-adec-0800271c1b75,,Payment Date ; Payment Type ; Mode of Payment ; Mobile Money Network ; Name of Bank ; Transactional Code ; Consultation service type paid for ; Additional Services Being Paid For; Charge for the Service(s) (GHs) ; COMMENTS,Fee Information,"",Misc,N/A,"",""
